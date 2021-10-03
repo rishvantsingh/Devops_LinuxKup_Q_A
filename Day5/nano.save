@@ -1,0 +1,8 @@
+#!/bin/bash
+var a=rishivant
+if ($USER = $a)
+then
+echo "user exist"
+else
+echo user dont exist
+fi
